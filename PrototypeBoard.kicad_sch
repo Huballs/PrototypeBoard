@@ -3142,6 +3142,12 @@
 		(uuid "454a7a47-66ca-4d2a-8fd2-b0dd8bdd23f5")
 	)
 	(junction
+		(at 377.19 245.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46409f2c-afaa-468c-a2a2-b1622913ebb1")
+	)
+	(junction
 		(at 57.15 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3152,6 +3158,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4a012566-de30-4cfb-8d81-3cd9a3e0c46d")
+	)
+	(junction
+		(at 223.52 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4a41a6fe-9334-4ac9-babf-181bc23f2dc9")
 	)
 	(junction
 		(at 182.88 20.32)
@@ -3260,6 +3272,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "77890eb5-6e6b-424a-acdc-b4dee4912883")
+	)
+	(junction
+		(at 217.17 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "79552877-5a45-4d01-bc28-940ab1b4233d")
 	)
 	(junction
 		(at 72.39 41.91)
@@ -3448,6 +3466,12 @@
 		(uuid "c5670bb5-c821-4a67-b84c-a885a6cdc4e4")
 	)
 	(junction
+		(at 210.82 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c636fd56-6fcd-4c1c-88f4-d4e05761ba17")
+	)
+	(junction
 		(at 88.9 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3574,6 +3598,12 @@
 		(uuid "f48f23e4-7f4f-40df-a8f3-5ee3654209d2")
 	)
 	(junction
+		(at 229.87 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4a75672-3ed9-4ed5-b01b-b12dd5d3071a")
+	)
+	(junction
 		(at 95.25 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3584,6 +3614,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f6f1d6d9-e254-46af-8c91-956f22c102c2")
+	)
+	(junction
+		(at 386.08 255.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f71be7ef-7d31-4201-aca5-2ae549aa16b7")
 	)
 	(junction
 		(at 161.29 340.36)
@@ -3738,6 +3774,26 @@
 			(type default)
 		)
 		(uuid "092551ea-f6f0-4b54-ba47-831a9de24c83")
+	)
+	(wire
+		(pts
+			(xy 377.19 245.11) (xy 378.46 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b077639-41ed-4f8c-a054-daf59c0b6a65")
+	)
+	(wire
+		(pts
+			(xy 377.19 255.27) (xy 386.08 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bfa937b-0ee1-4120-ba28-b0ee90f268ab")
 	)
 	(wire
 		(pts
@@ -3898,6 +3954,16 @@
 			(type default)
 		)
 		(uuid "174f30be-3b73-4f0d-b578-a4b439b5f466")
+	)
+	(wire
+		(pts
+			(xy 377.19 245.11) (xy 377.19 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17f680e3-1cdc-48da-b256-a233c5625d37")
 	)
 	(wire
 		(pts
@@ -4751,6 +4817,16 @@
 	)
 	(wire
 		(pts
+			(xy 364.49 245.11) (xy 368.3 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "579d6856-abd4-4133-897e-722b44158743")
+	)
+	(wire
+		(pts
 			(xy 76.2 185.42) (xy 76.2 187.96)
 		)
 		(stroke
@@ -4808,6 +4884,16 @@
 			(type default)
 		)
 		(uuid "5c8da7e9-54de-498f-a540-f171e5208889")
+	)
+	(wire
+		(pts
+			(xy 386.08 250.19) (xy 386.08 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d587c4d-7f36-420a-9a43-5d53cdb53728")
 	)
 	(wire
 		(pts
@@ -5051,6 +5137,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 20.32) (xy 236.22 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72d2b8e7-0345-4d72-b7f2-c15aad32a2d8")
+	)
+	(wire
+		(pts
 			(xy 144.78 340.36) (xy 144.78 342.9)
 		)
 		(stroke
@@ -5058,6 +5154,16 @@
 			(type default)
 		)
 		(uuid "74438948-35d4-4cf6-b5d4-da357b910335")
+	)
+	(wire
+		(pts
+			(xy 386.08 255.27) (xy 386.08 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "744f79ca-628e-4ff9-b4ec-d3767e8fdd0b")
 	)
 	(wire
 		(pts
@@ -5078,6 +5184,16 @@
 			(type default)
 		)
 		(uuid "7699fccf-a4cb-47e7-adca-ebcb14b0ffa8")
+	)
+	(wire
+		(pts
+			(xy 217.17 20.32) (xy 223.52 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78463af8-fc27-40bc-ab1b-4e97c59956b5")
 	)
 	(wire
 		(pts
@@ -5411,6 +5527,16 @@
 	)
 	(wire
 		(pts
+			(xy 386.08 236.22) (xy 386.08 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9316e5cd-5bd8-469c-b840-71706baabd39")
+	)
+	(wire
+		(pts
 			(xy 196.85 245.11) (xy 196.85 243.84)
 		)
 		(stroke
@@ -5608,6 +5734,16 @@
 			(type default)
 		)
 		(uuid "a4212c39-deec-4f4c-8560-984fd9f1a955")
+	)
+	(wire
+		(pts
+			(xy 375.92 245.11) (xy 377.19 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4ff0710-647c-4f88-bf5f-5bee20803dc1")
 	)
 	(wire
 		(pts
@@ -6281,6 +6417,16 @@
 	)
 	(wire
 		(pts
+			(xy 223.52 20.32) (xy 229.87 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d749345a-39bb-450a-ab64-fa686bb021b2")
+	)
+	(wire
+		(pts
 			(xy 62.23 203.2) (xy 62.23 205.74)
 		)
 		(stroke
@@ -6318,6 +6464,16 @@
 			(type default)
 		)
 		(uuid "dc535739-8e87-468c-aebf-0fd66545dc61")
+	)
+	(wire
+		(pts
+			(xy 210.82 20.32) (xy 217.17 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd3161e5-905d-46e2-8b4a-e6d4cea32bdc")
 	)
 	(wire
 		(pts
@@ -6882,32 +7038,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 265.43 254 0)
+		(lib_id "New_Library:SMDpad")
+		(at 236.22 24.13 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "00da3e13-1b50-4555-86b5-3a494d98d53c")
-		(property "Reference" "R46"
-			(at 263.398 252.476 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 261.366 252.73 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 263.652 254 90)
+		(uuid "0158da12-7b9d-4d5f-b851-6abcb6023e80")
+		(property "Reference" "P227"
+			(at 237.236 32.512 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6915,8 +7055,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 265.43 254 0)
+		(property "Value" "SMDpad"
+			(at 237.236 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6924,8 +7064,26 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 265.43 254 0)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 236.22 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 236.22 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 236.22 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6934,15 +7092,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b0383089-4c22-4602-8c1e-6118e6cb4338")
-		)
-		(pin "2"
-			(uuid "3fc8b5e0-b098-4b14-a132-0e3dc2e01618")
+			(uuid "759651ee-2967-401b-9b45-7507d5128b6c")
 		)
 		(instances
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R46")
+					(reference "P227")
 					(unit 1)
 				)
 			)
@@ -7952,6 +8107,71 @@
 	)
 	(symbol
 		(lib_id "New_Library:SMDpad")
+		(at 360.68 245.11 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0ce3a6b6-bd35-4d1a-9fbc-0b74563e47d1")
+		(property "Reference" "P58"
+			(at 351.028 246.126 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 351.028 244.094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_2x1.2mm"
+			(at 364.49 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 364.49 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 364.49 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ce814d0b-d432-4e37-b0c6-62170eb0387f")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:SMDpad")
 		(at 336.55 285.75 270)
 		(mirror x)
 		(unit 1)
@@ -8074,6 +8294,70 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "P56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:SMDpad")
+		(at 424.18 232.41 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0df56f9a-9bda-442a-b695-a74e2f47c5d2")
+		(property "Reference" "P220"
+			(at 425.196 222.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 423.164 222.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 424.18 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 424.18 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 424.18 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1488ae67-43a6-4513-9cfe-5e43e5947ddd")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P220")
 					(unit 1)
 				)
 			)
@@ -8208,73 +8492,6 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "R62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 247.65 254 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "10d891dc-5bfd-4422-9704-4a852e087d73")
-		(property "Reference" "R44"
-			(at 245.618 252.476 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 243.586 252.73 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 245.872 254 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 247.65 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c4891732-f6c8-46ca-83b5-86488d289645")
-		)
-		(pin "2"
-			(uuid "8653ae54-e9c9-4745-9436-232859696570")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -8865,73 +9082,6 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "P132")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 247.65 261.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "16c1f1ed-efa1-49b6-b04a-6760b123a5b3")
-		(property "Reference" "R47"
-			(at 245.618 260.096 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 243.586 260.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 245.872 261.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 247.65 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "051b321b-c33f-4d47-bff0-00bdb5f53482")
-		)
-		(pin "2"
-			(uuid "ad39566c-ba39-4a58-bed7-6d01851e8121")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -10863,6 +11013,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 377.19 251.46 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2cd0e0f7-dde0-432c-9102-b8654be1d971")
+		(property "Reference" "R42"
+			(at 379.222 252.984 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 381.254 252.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 378.968 251.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 377.19 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 377.19 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6e4f8b41-73aa-4a23-ae86-f11f1310008c")
+		)
+		(pin "2"
+			(uuid "2cb3c428-8e71-4bc5-9c33-e865af42400b")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "R42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:SS24")
 		(at 256.54 101.6 0)
 		(unit 1)
@@ -11142,73 +11359,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 265.43 269.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "30676578-5825-4e81-8786-6f96075cb116")
-		(property "Reference" "R52"
-			(at 263.398 267.716 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 261.366 267.97 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 263.652 269.24 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 265.43 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 265.43 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "543093ff-f765-4f11-95b9-684230733c85")
-		)
-		(pin "2"
-			(uuid "40ffe609-fa15-47b7-a5a3-85052f316618")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 388.62 340.36 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11269,73 +11419,6 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "R111")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 256.54 269.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "316b004c-4ac9-4ae9-b575-dbc6229e0817")
-		(property "Reference" "R51"
-			(at 254.508 267.716 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 252.476 267.97 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 254.762 269.24 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 256.54 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 256.54 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ebcef1fc-6d31-4e2d-85e5-ff3417556176")
-		)
-		(pin "2"
-			(uuid "3f624c2a-5745-42de-b6a9-b701c0e3d953")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -12131,6 +12214,70 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "P162")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:SMDpad")
+		(at 402.996 232.6415 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "37675b92-65a1-4c2b-8ece-f43ac7f6fc99")
+		(property "Reference" "P62"
+			(at 404.012 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 401.98 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 402.996 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 402.996 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 402.996 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "504fe6a2-7f9d-4263-b500-ed3420ea8df0")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P62")
 					(unit 1)
 				)
 			)
@@ -14669,6 +14816,70 @@
 	)
 	(symbol
 		(lib_id "New_Library:SMDpad")
+		(at 416.966 232.6415 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4e3c1b0b-916f-4fdd-85c1-50be5e18400c")
+		(property "Reference" "P219"
+			(at 417.982 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 415.95 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 416.966 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 416.966 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 416.966 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "01bfde03-d2bf-48d0-9842-5a2c041baffd")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P219")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:SMDpad")
 		(at 190.5 368.3 0)
 		(mirror y)
 		(unit 1)
@@ -16315,136 +16526,6 @@
 	)
 	(symbol
 		(lib_id "New_Library:SMDpad")
-		(at 256.54 238.76 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "59e9a528-eb34-40f9-88b8-31b0d697dd53")
-		(property "Reference" "P59"
-			(at 255.524 229.108 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SMDpad"
-			(at 257.556 229.108 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:SMDpad_2x1.2mm"
-			(at 256.54 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 256.54 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 256.54 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e819a76e-7883-46cb-b665-35897e7fd152")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "P59")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "New_Library:SMDpad")
-		(at 265.43 238.76 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5a1d3c82-2b69-4018-84e5-40eeba64bdf2")
-		(property "Reference" "P60"
-			(at 264.414 229.108 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SMDpad"
-			(at 266.446 229.108 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:SMDpad_2x1.2mm"
-			(at 265.43 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 265.43 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 265.43 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7b61320c-a7f3-4231-b9a1-a309a88ea909")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "P60")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "New_Library:SMDpad")
 		(at 314.96 285.75 270)
 		(mirror x)
 		(unit 1)
@@ -17702,6 +17783,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:IPD50R3K0CE")
+		(at 383.54 245.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "692de7e1-733b-4f2b-a8f3-d2cb3bef6bb9")
+		(property "Reference" "Q6"
+			(at 389.89 243.8399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IPD50R3K0CE"
+			(at 389.89 246.3799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+			(at 388.62 247.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/dgdl/IPx50R3K0CE_2_0.pdf?folderId=db3a3043163797a6011637d4bae7003b&fileId=db3a304339dcf4b10139e7e9ff592ce4"
+			(at 388.62 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "1.7A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 3Ohm Ron, 4.3nC Qg (typ), TO-252-2"
+			(at 383.54 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d7af6b75-524d-4504-8937-f0e6b0f31b61")
+		)
+		(pin "1"
+			(uuid "be775476-9b76-4cdf-869b-a7f75ca3837e")
+		)
+		(pin "2"
+			(uuid "8addf904-274c-41dc-8b8b-5993099db6fd")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:MMBT2222A")
 		(at 194.31 238.76 0)
 		(unit 1)
@@ -18639,73 +18796,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 265.43 261.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "742784d4-0d05-427d-b5cf-3d204d8889a6")
-		(property "Reference" "R49"
-			(at 263.398 260.096 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 261.366 260.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 263.652 261.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 265.43 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 265.43 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "89b86128-7f67-4cd6-bfdb-fba23d83145b")
-		)
-		(pin "2"
-			(uuid "7350aa11-a335-43cc-9b1b-f2575eddc234")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R49")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 50.8 64.77 180)
 		(unit 1)
@@ -19457,71 +19547,6 @@
 		)
 	)
 	(symbol
-		(lib_id "New_Library:SMDpad")
-		(at 247.65 276.86 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7be7f854-0892-4b3d-b51d-40241bdde20d")
-		(property "Reference" "P63"
-			(at 248.666 286.512 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SMDpad"
-			(at 246.634 286.512 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:SMDpad_2x1.2mm"
-			(at 247.65 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 247.65 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1a97566b-2a5b-4c33-9bd7-42f1bf15aefa")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "P63")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
 		(at 118.11 171.45 180)
 		(unit 1)
@@ -20110,140 +20135,6 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 247.65 269.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8037e1a5-3119-4186-9b00-090eee584d51")
-		(property "Reference" "R50"
-			(at 245.618 267.716 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 243.586 267.97 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 245.872 269.24 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 247.65 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2da01d85-bca4-4732-abe0-41aba9cc948e")
-		)
-		(pin "2"
-			(uuid "09d05f04-2b19-4cf4-9045-766f8e23aaec")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R50")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 256.54 261.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "807a2f5d-8231-4f2f-8ee2-4ff24eea97a2")
-		(property "Reference" "R48"
-			(at 254.508 260.096 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 252.476 260.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 254.762 261.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 256.54 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 256.54 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4a10e1f3-f0e5-4014-92fb-148141d2ab71")
-		)
-		(pin "2"
-			(uuid "e57888dc-d06a-4f80-8ce0-afff12f6a495")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -21035,73 +20926,6 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 256.54 246.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8a31b46b-b71b-40ba-b102-306cc40ac555")
-		(property "Reference" "R42"
-			(at 254.508 244.856 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 252.476 245.11 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 254.762 246.38 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 256.54 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 256.54 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bf102ab2-0977-4f9e-a2e7-fd7fc61e031b")
-		)
-		(pin "2"
-			(uuid "06bb0c55-4911-4d3e-b9ac-63ea2dc32c29")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -22683,6 +22507,70 @@
 		)
 	)
 	(symbol
+		(lib_id "New_Library:SMDpad")
+		(at 439.826 232.6415 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "99bafb2f-ee2d-49dd-a5c5-b8b465f6ad33")
+		(property "Reference" "P222"
+			(at 440.842 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 438.81 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 439.826 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 439.826 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 439.826 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7deb704d-6dae-42ae-b624-444013936ba9")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P222")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 40.64 209.55 90)
 		(unit 1)
@@ -23870,73 +23758,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 265.43 246.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a440c30e-fb1a-42ce-b68c-fc3700082726")
-		(property "Reference" "R43"
-			(at 263.398 244.856 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 261.366 245.11 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 263.652 246.38 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 265.43 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 265.43 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0821ba22-f0e0-488a-9ab8-4400f3ba692a")
-		)
-		(pin "2"
-			(uuid "05192ebb-1061-4757-9ccf-c0170ad25999")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "New_Library:SMDpad")
 		(at 128.27 36.83 90)
 		(unit 1)
@@ -23997,6 +23818,72 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "P26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:SMDpad")
+		(at 229.87 24.13 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a56f7ac4-fdf6-49ab-9397-675b05d0c602")
+		(property "Reference" "P226"
+			(at 230.886 32.512 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 230.886 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 229.87 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 229.87 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c1ee582d-6e08-4f72-9c6a-28d7806c1f7c")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P226")
 					(unit 1)
 				)
 			)
@@ -24661,6 +24548,70 @@
 	)
 	(symbol
 		(lib_id "New_Library:SMDpad")
+		(at 410.616 232.6415 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ad2a0212-2304-4bdd-834d-0c6c1b60d8d3")
+		(property "Reference" "P63"
+			(at 411.632 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 409.6 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 410.616 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 410.616 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 410.616 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a6e38391-227e-411d-b361-e95ada93c732")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:SMDpad")
 		(at 33.02 246.38 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -24847,6 +24798,70 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "P103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:SMDpad")
+		(at 394.97 232.41 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b0751526-264b-4d20-affa-e43efda79cf1")
+		(property "Reference" "P61"
+			(at 395.986 222.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 393.954 222.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 394.97 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 394.97 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 394.97 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0ef49d46-6476-4858-a4fd-1ce953afa4b1")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P61")
 					(unit 1)
 				)
 			)
@@ -25119,32 +25134,33 @@
 	)
 	(symbol
 		(lib_id "New_Library:SMDpad")
-		(at 265.43 276.86 90)
-		(mirror x)
+		(at 223.52 24.13 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b23b5882-7be5-4f41-885b-62fce22646bd")
-		(property "Reference" "P61"
-			(at 266.446 286.512 0)
+		(uuid "b2f34626-19d3-4396-9633-422979887fb6")
+		(property "Reference" "P225"
+			(at 224.536 32.512 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "SMDpad"
-			(at 264.414 286.512 0)
+			(at 224.536 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SMDpad_2x1.2mm"
-			(at 265.43 273.05 0)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 223.52 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25153,7 +25169,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 265.43 273.05 0)
+			(at 223.52 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25162,7 +25178,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 265.43 273.05 0)
+			(at 223.52 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25171,12 +25187,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "3f2972cc-44b3-4844-b74c-c5f4e5c2e15c")
+			(uuid "b52fb7a0-ca62-42d4-818a-3b24992b8f10")
 		)
 		(instances
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "P61")
+					(reference "P225")
 					(unit 1)
 				)
 			)
@@ -25591,6 +25607,70 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "P193")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:SMDpad")
+		(at 386.08 232.41 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b57c7963-880a-4c8c-acd6-3040c4c37994")
+		(property "Reference" "P59"
+			(at 387.096 222.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 385.064 222.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 386.08 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 386.08 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e0ce00f1-5860-43fb-83cf-215754af24ca")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P59")
 					(unit 1)
 				)
 			)
@@ -27445,6 +27525,70 @@
 	)
 	(symbol
 		(lib_id "New_Library:SMDpad")
+		(at 386.08 264.16 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c43e0a47-1eac-4b06-92b7-05cd4b236fab")
+		(property "Reference" "P60"
+			(at 385.064 273.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 387.096 273.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 386.08 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 386.08 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c560dfda-6adc-405c-b3f8-01f263bedf3b")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:SMDpad")
 		(at 295.91 368.3 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28422,6 +28566,72 @@
 	)
 	(symbol
 		(lib_id "New_Library:SMDpad")
+		(at 217.17 24.13 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ca219087-90a5-4de7-acc1-45c1b3dc9fbd")
+		(property "Reference" "P224"
+			(at 218.186 32.512 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 218.186 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 217.17 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 217.17 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4d68754b-9bd5-44f2-a0a3-5ba9412d2c27")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P224")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:SMDpad")
 		(at 36.83 31.75 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28937,73 +29147,6 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "P152")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 247.65 246.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d11838dd-c9f4-414a-9c22-4b673e1d35ed")
-		(property "Reference" "R41"
-			(at 245.618 244.856 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 243.586 245.11 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 245.872 246.38 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 247.65 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "236a9082-c22b-4551-9a0b-63726ae8a7ec")
-		)
-		(pin "2"
-			(uuid "2ad44f36-96e2-470c-b3eb-9c7f40454537")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -29866,71 +30009,6 @@
 	)
 	(symbol
 		(lib_id "New_Library:SMDpad")
-		(at 256.54 276.86 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "dae7ae22-9d4d-4542-b223-3cbf0b43f07c")
-		(property "Reference" "P62"
-			(at 257.556 286.512 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SMDpad"
-			(at 255.524 286.512 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:SMDpad_2x1.2mm"
-			(at 256.54 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 256.54 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 256.54 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8c4034b1-fdd6-409d-aba0-110e5f2e4369")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "P62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "New_Library:SMDpad")
 		(at 123.19 257.81 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -30784,6 +30862,70 @@
 		)
 	)
 	(symbol
+		(lib_id "New_Library:SMDpad")
+		(at 432.206 232.6415 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e27b0c1f-cec9-4ad4-b16b-c5a4aaf32292")
+		(property "Reference" "P221"
+			(at 433.222 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 431.19 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 432.206 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 432.206 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 432.206 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f56467b2-2423-44f0-ac03-faa4316031c1")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P221")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 64.77 289.56 0)
 		(unit 1)
@@ -31065,71 +31207,6 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "R102")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "New_Library:SMDpad")
-		(at 247.65 238.76 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e5277e6d-fe7d-4c9b-828f-055c05358765")
-		(property "Reference" "P58"
-			(at 246.634 229.108 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SMDpad"
-			(at 248.666 229.108 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Library:SMDpad_2x1.2mm"
-			(at 247.65 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 247.65 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ab49a434-93f3-4e27-935f-881df93642fc")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "P58")
 					(unit 1)
 				)
 			)
@@ -32351,6 +32428,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 372.11 245.11 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f03e8a79-b667-48d6-973b-34078f76d0ee")
+		(property "Reference" "R41"
+			(at 370.586 247.142 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 370.84 249.174 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 372.11 246.888 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 372.11 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 372.11 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a3989af8-906c-4a5e-93a8-9287bc64366e")
+		)
+		(pin "2"
+			(uuid "36ff87f3-64c8-4fc4-8c7b-e19f39032b0c")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "R41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "New_Library:SMDpad")
 		(at 346.71 190.5 90)
 		(mirror x)
@@ -32757,6 +32901,70 @@
 		)
 	)
 	(symbol
+		(lib_id "New_Library:SMDpad")
+		(at 446.176 232.6415 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f1ed4eba-bc60-4030-9d5f-840e45dc3779")
+		(property "Reference" "P223"
+			(at 447.192 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMDpad"
+			(at 445.16 222.9895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SMDpad_4x2.5mm"
+			(at 446.176 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 446.176 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 446.176 236.4515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4dfb3537-73f1-4724-918c-5097cf826823")
+		)
+		(instances
+			(project "PrototypeBoard"
+				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
+					(reference "P223")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 80.01 334.01 0)
 		(unit 1)
@@ -33146,73 +33354,6 @@
 			(project "PrototypeBoard"
 				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
 					(reference "P47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 256.54 254 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f8b74baa-abe9-42e6-a851-b98e2a9db32a")
-		(property "Reference" "R45"
-			(at 254.508 252.476 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R"
-			(at 252.476 252.73 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 254.762 254 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 256.54 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 256.54 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "63dde00b-762b-493a-8d18-975dd2321004")
-		)
-		(pin "2"
-			(uuid "0b115242-2171-4bb2-9d51-8893671f1022")
-		)
-		(instances
-			(project "PrototypeBoard"
-				(path "/66d068c1-9c26-48b7-b0d8-46d01f537041"
-					(reference "R45")
 					(unit 1)
 				)
 			)
